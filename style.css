@@ -1,0 +1,25 @@
+#ejercicio{
+  
+    display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+    column-gap: 7px;
+
+
+}
+
+
+.rojo{
+    background-color: red;
+    color: yellow;  
+    height: 200px;
+    width: 200px;
+}
+
+.negro{
+    background-color: black;
+    color:white;
+    height: 200px;
+    width: 200px;
+}
